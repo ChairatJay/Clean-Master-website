@@ -1,6 +1,6 @@
-# Yavin Website
+# Clean Master Website
 
-Bootstrap website for a company that creates and customizes office spaces. It could be used for just about any kind of business. It is a very light business theme with a clean design.
+Bootstrap website for a company that clean and renovate house. It could be used for just about any kind of business. It is a very light business theme with a clean design.
 
 <img src="./images/screen.png" />
 
